@@ -36,6 +36,13 @@ All the endpoints are listed below.
 
   - `/api/events/` - POST, GET
 
+All the routes are listed below.
+- `http://localhost:3000/` - Calender with all holidays and events
+- `http://localhost:3000/events/` -Lists of all the events
+- `http://localhost:3000/events/id` -Update, Delete event
+- `http://localhost:3000/holidays/` -Lists holidays
+
+
 
 ## Installation and Usage <a name="installation-usage"></a>
 
